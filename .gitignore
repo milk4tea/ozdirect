@@ -9,10 +9,6 @@ atlassian*
 /.idea
 /.gitattributes
 
-
-
-
-
 /bin
 
 /dev/shell
