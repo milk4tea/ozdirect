@@ -55,8 +55,6 @@ atlassian*
 
 /vendor
 
-
-
 !/composer.json
 !/composer.lock
 !/README.md
